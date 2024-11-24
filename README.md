@@ -63,6 +63,7 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 ![image](https://github.com/user-attachments/assets/c550e02f-8e0f-4060-ada9-91ca809e9f80)
 
 <br>
+<br>
 
 特殊な前進方法による走行：アクセルとブレーキを繰り返すような走行を行っている。これは、「早すぎて所定の位置に止まれない」「遅すぎてカーブを曲がり切れない」という2つの問題を解決するために、編み出した方法である。<br>
 
