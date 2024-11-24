@@ -15,8 +15,11 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 ![image](https://github.com/user-attachments/assets/48ef1e28-f26a-42b3-a2a0-4918459ea631)
 
 - **機体の裏側**:
-![image](https://github.com/user-attachments/assets/f602a1eb-1341-4e54-a512-94fd1c34fb34)
+![image](https://github.com/user-attachments/assets/1c583e9e-40c4-4d4d-b086-4761cecc8d05)
 
+- **工夫点**:
+- アッカーマン機構というモノを採用することで、左タイヤと右タイヤの水平位置のずれを最小限に抑えている
+- 
 ### プログラム
 
 
