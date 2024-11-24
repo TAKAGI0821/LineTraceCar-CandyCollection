@@ -4,14 +4,19 @@
 https://github.com/user-attachments/assets/f4543615-a7e0-47b9-b964-e427240bc20a
 
 - **お菓子をアームロボットの前で放す際の動画**:
-
-![movie](https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747)
+https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 
 ## 詳細
 ### コース
 ![image](https://github.com/user-attachments/assets/b8c8beda-1d6e-4216-b009-f145990218de)
 
 ### 機体
+- **機体の表側**:
+![image](https://github.com/user-attachments/assets/48ef1e28-f26a-42b3-a2a0-4918459ea631)
+
+- **機体の裏側**:
+![image](https://github.com/user-attachments/assets/f602a1eb-1341-4e54-a512-94fd1c34fb34)
+
 ### プログラム
 
 
