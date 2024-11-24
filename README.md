@@ -1,4 +1,4 @@
-# Seat reservation management system
+# Automatic candy collection line tracing car
 
 # DEMO
 
