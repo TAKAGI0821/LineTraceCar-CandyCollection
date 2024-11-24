@@ -42,11 +42,13 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 フローチャート１の左側のフローがmainフローになっており、そこを起点にセンサーの読み取り、お菓子の取捨などの処理を行っている。
 
 <br>
+
 - **フローチャート1**:<br>
 
 ![image](https://github.com/user-attachments/assets/12a25cf1-e34b-46ff-839b-11eabb86d1c3)
 
 <br>
+
 - **フローチャート2**:<br>
 
 ![image](https://github.com/user-attachments/assets/d67c6a5d-b990-4f53-ace0-1f4ed3185123)
@@ -55,8 +57,9 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 <br>
 
 - **工夫点**:<br>
-- **フローチャート2**:<br>
-
+<b>比例制御による走行</b>
+- **特殊な前進方法による走行**:<br>
+- **箱を回収する際の工夫**:<br>
 
 ## 開発環境
 
