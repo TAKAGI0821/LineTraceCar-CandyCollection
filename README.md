@@ -24,10 +24,14 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 右側：アッカーマン機構でタイヤをつけている。<br>
 ![image](https://github.com/user-attachments/assets/1819edc2-696f-4b05-a084-6b1c9962bd97)
 
- 
+## 回路
+- **簡易的な回路図**:-
+![image](https://github.com/user-attachments/assets/63ba43ec-9fbd-433d-a468-c422b2764185)
+
 ### プログラム
-
-
+上の左側のフローがmainフローになっており、そこを起点にセンサーの読み取り、お菓子の取捨などの処理を行っている。
+![image](https://github.com/user-attachments/assets/12a25cf1-e34b-46ff-839b-11eabb86d1c3)
+![image](https://github.com/user-attachments/assets/d67c6a5d-b990-4f53-ace0-1f4ed3185123)
 
 
 
