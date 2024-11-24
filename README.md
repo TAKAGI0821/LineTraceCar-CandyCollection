@@ -1,13 +1,9 @@
-# Automatic candy collection line tracing car
+# お菓子回収ライントレースカー
 
-# DEMO
+## DEMO
 
-# Features
+# 詳細
 
-# Requirement
+# 開発環境
 
-# Usage
-
-# Note
-
-# Author
+# 作成者
