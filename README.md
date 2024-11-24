@@ -6,11 +6,13 @@ https://github.com/user-attachments/assets/f4543615-a7e0-47b9-b964-e427240bc20a
 - **お菓子をアームロボットの前で放す際の動画**:<br>
 https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 
-## コースについて
+## コース
+以下にコース全体のイメージを示す。
 ![image](https://github.com/user-attachments/assets/b8c8beda-1d6e-4216-b009-f145990218de)
 
-## 機体について
-- **機体の表側**:<br>
+## 機体
+以下に機体のイメージを示す。
+<b>【機体の表側】<b>
 ![image](https://github.com/user-attachments/assets/48ef1e28-f26a-42b3-a2a0-4918459ea631)
 
 <br>
@@ -30,7 +32,7 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 
 ![image](https://github.com/user-attachments/assets/1819edc2-696f-4b05-a084-6b1c9962bd97)
 
-### 【回路】
+## 回路
 - **簡易的な回路図**:<br>
 ![image](https://github.com/user-attachments/assets/63ba43ec-9fbd-433d-a468-c422b2764185)
 
