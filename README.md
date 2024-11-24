@@ -11,13 +11,13 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 ![image](https://github.com/user-attachments/assets/b8c8beda-1d6e-4216-b009-f145990218de)
 
 ### 機体
-- **機体の表側**:-
+- **機体の表側**:
 ![image](https://github.com/user-attachments/assets/48ef1e28-f26a-42b3-a2a0-4918459ea631)
 
-- **機体の裏側**:-
+- **機体の裏側**:
 ![image](https://github.com/user-attachments/assets/1c583e9e-40c4-4d4d-b086-4761cecc8d05)
 
-- **工夫点**:-
+- **工夫点**:
 アッカーマン機構というモノを採用することで、左タイヤと右タイヤの水平位置のずれを最小限に抑えている。
 また、これにより、タイヤによる前進方向の力の妨害を防ぐことに寄与している。<br>
 左側：は両輪を1つの軸でつないでいる。<br>
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 ![image](https://github.com/user-attachments/assets/1819edc2-696f-4b05-a084-6b1c9962bd97)
 
 ## 回路
-- **簡易的な回路図**:-
+- **簡易的な回路図**:
 ![image](https://github.com/user-attachments/assets/63ba43ec-9fbd-433d-a468-c422b2764185)
 <br>
 <br>
@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 ![image](https://github.com/user-attachments/assets/d67c6a5d-b990-4f53-ace0-1f4ed3185123)
 <br>
 <br>
-- **簡易的な回路図**:-
+- **簡易的な回路図**:
 
 
 ## 開発環境
