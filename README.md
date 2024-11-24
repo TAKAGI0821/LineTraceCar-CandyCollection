@@ -39,13 +39,15 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 
 ### プログラム
 流れとしては「フォトセンサでラインを走行」→「赤外線センサーとフォトセンサで箱を発見」→「箱を持っていなければ箱を拾う」→「フォトセンサでラインを走行」→「フォトセンサでアームロボットを検知し、箱を持っている場合、止まる」→「箱を放す」→同様のことを繰り返す。<br><br>
-上の左側のフローがmainフローになっており、そこを起点にセンサーの読み取り、お菓子の取捨などの処理を行っている。
+フローチャート１の左側のフローがmainフローになっており、そこを起点にセンサーの読み取り、お菓子の取捨などの処理を行っている。
 
 <br>
+- **フローチャート1**:<br>
 
 ![image](https://github.com/user-attachments/assets/12a25cf1-e34b-46ff-839b-11eabb86d1c3)
 
 <br>
+- **フローチャート2**:<br>
 
 ![image](https://github.com/user-attachments/assets/d67c6a5d-b990-4f53-ace0-1f4ed3185123)
 
@@ -53,7 +55,7 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 <br>
 
 - **工夫点**:<br>
-
+- **フローチャート2**:<br>
 
 
 ## 開発環境
