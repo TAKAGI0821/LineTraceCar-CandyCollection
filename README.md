@@ -7,10 +7,10 @@ https://github.com/user-attachments/assets/f4543615-a7e0-47b9-b964-e427240bc20a
 https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 
 ## 詳細
-### コース
+### 【コース】
 ![image](https://github.com/user-attachments/assets/b8c8beda-1d6e-4216-b009-f145990218de)
 
-### 機体
+### 【機体】
 - **機体の表側**:<br>
 ![image](https://github.com/user-attachments/assets/48ef1e28-f26a-42b3-a2a0-4918459ea631)
 
@@ -31,14 +31,14 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 
 ![image](https://github.com/user-attachments/assets/1819edc2-696f-4b05-a084-6b1c9962bd97)
 
-### 回路
+### 【回路】
 - **簡易的な回路図**:<br>
 ![image](https://github.com/user-attachments/assets/63ba43ec-9fbd-433d-a468-c422b2764185)
 
 <br>
 <br>
 
-### プログラム
+### 【プログラム】
 流れとしては「フォトセンサでラインを走行」→「赤外線センサーとフォトセンサで箱を発見」→「箱を持っていなければ箱を拾う」→「フォトセンサでラインを走行」→「フォトセンサでアームロボットを検知し、箱を持っている場合、止まる」→「箱を放す」→同様のことを繰り返す。<br><br>
 フローチャート１の左側のフローがmainフローになっており、そこを起点にセンサーの読み取り、お菓子の取捨などの処理を行っている。
 
