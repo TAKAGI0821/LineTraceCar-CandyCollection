@@ -1,9 +1,9 @@
 # お菓子回収ライントレースカー
 ## DEMO
-- **お菓子を回収する際の動画**:
+- **お菓子を回収する際の動画**:<br>
 https://github.com/user-attachments/assets/f4543615-a7e0-47b9-b964-e427240bc20a
 
-- **お菓子をアームロボットの前で放す際の動画**:
+- **お菓子をアームロボットの前で放す際の動画**:<br>
 https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 
 ## 詳細
