@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 
 ![image](https://github.com/user-attachments/assets/1819edc2-696f-4b05-a084-6b1c9962bd97)
 
-## 回路
+### 回路
 - **簡易的な回路図**:<br>
 ![image](https://github.com/user-attachments/assets/63ba43ec-9fbd-433d-a468-c422b2764185)
 
