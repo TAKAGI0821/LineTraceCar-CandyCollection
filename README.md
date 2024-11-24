@@ -33,14 +33,21 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 ## 回路
 - **簡易的な回路図**:<br>
 ![image](https://github.com/user-attachments/assets/63ba43ec-9fbd-433d-a468-c422b2764185)
+
 <br>
 <br>
+
 ### プログラム
 上の左側のフローがmainフローになっており、そこを起点にセンサーの読み取り、お菓子の取捨などの処理を行っている。
+
 <br>
+
 ![image](https://github.com/user-attachments/assets/12a25cf1-e34b-46ff-839b-11eabb86d1c3)
+
 <br>
+
 ![image](https://github.com/user-attachments/assets/d67c6a5d-b990-4f53-ace0-1f4ed3185123)
+
 <br>
 <br>
 - **簡易的な回路図**:
