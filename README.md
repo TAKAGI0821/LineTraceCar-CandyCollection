@@ -11,10 +11,10 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 ![image](https://github.com/user-attachments/assets/b8c8beda-1d6e-4216-b009-f145990218de)
 
 ### 機体
-- **機体の表側**:
+- **機体の表側**:-
 ![image](https://github.com/user-attachments/assets/48ef1e28-f26a-42b3-a2a0-4918459ea631)
 
-- **機体の裏側**:
+- **機体の裏側**:-
 ![image](https://github.com/user-attachments/assets/1c583e9e-40c4-4d4d-b086-4761cecc8d05)
 
 - **工夫点**:-
