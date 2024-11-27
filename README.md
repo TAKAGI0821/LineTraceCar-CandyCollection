@@ -8,17 +8,16 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 
 ## コース
 <b>【コースの全体像】</b><br><br>
-![image](https://github.com/user-attachments/assets/b8c8beda-1d6e-4216-b009-f145990218de)
+<img src="https://github.com/user-attachments/assets/b8c8beda-1d6e-4216-b009-f145990218de" width=80%>
 
 ## 機体
 <b>【機体の表側】</b><br>
-![image](https://github.com/user-attachments/assets/48ef1e28-f26a-42b3-a2a0-4918459ea631)
-
+<img src="https://github.com/user-attachments/assets/48ef1e28-f26a-42b3-a2a0-4918459ea631" width=60%>
 <br>
 <br>
 
 <b>【機体の裏側】</b><br>
-![image](https://github.com/user-attachments/assets/1c583e9e-40c4-4d4d-b086-4761cecc8d05)
+<img src="https://github.com/user-attachments/assets/1c583e9e-40c4-4d4d-b086-4761cecc8d05" width=60%>
 
 <br>
 <br>
@@ -29,12 +28,12 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 左側：は両輪を1つの軸でつないでいる。<br>
 右側：アッカーマン機構でタイヤをつけている。<br>
 
-![image](https://github.com/user-attachments/assets/1819edc2-696f-4b05-a084-6b1c9962bd97)
+<img src="https://github.com/user-attachments/assets/1819edc2-696f-4b05-a084-6b1c9962bd97" width=60%>
 
 ## 回路
-<b>【簡易的な回路図】</b><br>
-![image](https://github.com/user-attachments/assets/63ba43ec-9fbd-433d-a468-c422b2764185)
 
+<b>【簡易的な回路図】</b><br>
+<img src="https://github.com/user-attachments/assets/63ba43ec-9fbd-433d-a468-c422b2764185" width=60%>
 <br>
 <br>
 
@@ -60,8 +59,7 @@ https://github.com/user-attachments/assets/be118170-a269-487c-a4c8-76094f88b747
 <b>【工夫点】</b><br>
 <b>比例制御による走行：</b>下の図のように、ラインから少し車体がずれていた場合には、少しだけタイヤの向きを変え、逆にラインから大きく車体がずれた場合には、タイヤの向きを大きく変える制御を行っている。<br>
 
-![image](https://github.com/user-attachments/assets/c550e02f-8e0f-4060-ada9-91ca809e9f80)
-
+<img src="https://github.com/user-attachments/assets/c550e02f-8e0f-4060-ada9-91ca809e9f80" width=60%>
 <br>
 <br>
 
